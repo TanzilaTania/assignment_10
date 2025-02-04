@@ -1,6 +1,7 @@
 # assignment_10
 
 A new Flutter project.
+
+<img  src="1.PNG">
 <img  src="2.PNG">
-<img  src="https://https://github.com/TanzilaTania/assignment_10/blob/master/2.PNG">
-<img  src="https://https://github.com/TanzilaTania/assignment_10/blob/master/3.PNG">
+<img  src="3.PNG">
